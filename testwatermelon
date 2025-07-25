@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Testsite</title>
+    <script
+      async
+      type="module"
+      src="https://chatwidget-prod.web.app/embed/init.iife.js"
+      data-watermelon-widget-id="qpn37EhjgyW"
+      data-watermelon-settings-id="14746">
+    </script>
+  </head>
+  <body>
+    <h1>Welkom op mijn testsite</h1>
+    <p>Dit is de widget van watermelon t/m 28 juli!</p>
+  </body>
+</html>
